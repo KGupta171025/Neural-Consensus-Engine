@@ -216,10 +216,6 @@ Query contract state using these read-only functions:
 
 MIT License - see LICENSE file for details.
 
-## Contributing
-
-Contributions are welcome! Please read our contributing guidelines and submit pull requests for any improvements.
-
 ## Support
 
 For questions and support, please open an issue in the project repository or contact the Neural Consensus Team.
