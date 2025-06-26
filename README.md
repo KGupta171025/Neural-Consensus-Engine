@@ -213,6 +213,8 @@ Query contract state using these read-only functions:
 4. Configure model parameters and start training
 
 ## License
+![image](https://github.com/user-attachments/assets/65bcd411-cd02-4f34-90a5-6ac29306c9b9)
+
 
 MIT License - see LICENSE file for details.
 
